@@ -1,6 +1,4 @@
-# 2. 数组的常用方法
-
-![image-20220726122853941](C:\Users\Hasee\AppData\Roaming\Typora\typora-user-images\image-20220726122853941.png)
+# 数组的常用方法
 
 ## 一、操作方法
 

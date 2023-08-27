@@ -1,4 +1,4 @@
-# 1. javascript中的数据类型
+# javascript中的数据类型
 
 在`JavaScript`中，我们可以分成两种类型：
 
